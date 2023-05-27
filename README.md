@@ -87,3 +87,21 @@ All functions
 ```text
 Any unspecified functions are de facto banned
 ```
+
+## Final Mark
+
+### Mark: 44 / 52 (84.6%)
+
+- Closing the Window (1 / 3)
+- Mouse event (4 / 4)
+- Animated Sprites (3 / 5)
+- Usage (1 / 1)
+- Window Size (5 / 5)
+- Window framerate (1 / 3)
+- Animations (4 / 4)
+- Movement (4 / 4)
+- Score (6 / 6)
+- Levels (3 / 3)
+- Visual effects (5 / 5)
+- Gameplay (3 / 5)
+- Sound effects (4 / 4)
