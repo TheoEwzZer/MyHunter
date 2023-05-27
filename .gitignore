@@ -1,0 +1,16 @@
+*.gcno
+*.gcda
+unit_tests
+*.lib
+*.a
+*.pdf
+*.vscode
+*.o
+*.out
+bootstrap
+my_hunter
+test
+*vgcore*
+*.log
+sprite_sheet
+high_score

@@ -1,4 +1,4 @@
-MIT License
+# MIT License with Exception for Educational Use
 
 Copyright (c) 2023 Théo Fabiano
 
@@ -11,6 +11,11 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+Exception: The permission granted above does not apply to the use of the Software
+for educational projects, including but not limited to school assignments,
+homework, or academic research. Any use of the Software for such purposes is
+prohibited without the explicit written permission of the author.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
